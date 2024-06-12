@@ -1,8 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'; // Correct import
-
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import profileImage from '../assets/images/LinkedIn-BW.jpeg';
 
 const Hero = () => {
@@ -43,7 +42,7 @@ const Hero = () => {
               See Resume
             </a>
             <a href="mailto:shahsarefin@gmail.com" className="inline-block py-2 px-3 md:px-4 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
-              Hire Me
+              Contact Me
             </a>
           </div>
         </div>
