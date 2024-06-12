@@ -32,16 +32,16 @@ const Hero = () => {
             </a>
           </div>
           <div className="flex flex-wrap justify-center lg:justify-start space-x-2 md:space-x-4">
-            <a href="#projects" className="inline-block py-2 px-3 md:px-4 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
+            <a href="#projects" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               See Projects
             </a>
-            <a href="https://github.com/shahsarefin" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-3 md:px-4 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
+            <a href="https://github.com/shahsarefin" target="_blank" rel="noopener noreferrer" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               See GitHub
             </a>
-            <a href="https://drive.google.com/your_drive_link_here" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-3 md:px-4 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
+            <a href="https://drive.google.com/your_drive_link_here" target="_blank" rel="noopener noreferrer" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               See Resume
             </a>
-            <a href="mailto:shahsarefin@gmail.com" className="inline-block py-2 px-3 md:px-4 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
+            <a href="mailto:shahsarefin@gmail.com" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               Contact Me
             </a>
           </div>
