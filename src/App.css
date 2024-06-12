@@ -6,6 +6,15 @@
 
 body {
   font-family: 'Merriweather', serif;
-  font-size: 16px; 
+  font-size: 16px; /* Adjust as necessary */
   line-height: 1.5;
 }
+
+
+/* body {
+  font-family: 'Merriweather', serif;
+}
+.App-logo {
+  width: 100px;
+  height: 100px;
+} */
