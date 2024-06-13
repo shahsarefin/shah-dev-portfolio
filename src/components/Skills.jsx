@@ -4,11 +4,11 @@ import '@fortawesome/fontawesome-free/css/all.css';
 const skills = [
   { id: 1, name: 'HTML', icon: 'fab fa-html5' },
   { id: 2, name: 'CSS', icon: 'fab fa-css3-alt' },
-  { id: 3, name: 'Tailwind CSS', icon: 'fab fa-tailwind' },
+  { id: 3, name: 'Tailwind', icon: 'fab fa-tailwind' },
   { id: 4, name: 'JavaScript', icon: 'fab fa-js' },
   { id: 5, name: 'React', icon: 'fab fa-react' },
   { id: 6, name: 'Angular', icon: 'fab fa-angular' },
-  {id : 7, name: 'PHP', icon: 'fab fa-python' },
+  {id : 7, name: 'PHP', icon: 'fab fa-php' },
   { id: 8, name: 'MySQL', icon: 'fab fa-mysql' },
   { id: 9, name: 'Git & GitHub', icon: 'fab fa-git-alt' },
 ];
