@@ -12,7 +12,7 @@ const Timeline = () => {
               <div className="mt-2 md:w-3/4">
                 <h4 className="text-xl font-bold text-teal-400">Full Stack Web Developer</h4>
                 <p className="text-gray-400">ACE Project Space</p>
-                <p className="mt-2 text-gray-400">My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.</p>
+                <p className="mt-2 text-gray-400">Building an admin tool for a startup. Using Angular, TypeScript and Angular reactive forms. </p>
               </div>
             </div>
             <div className="timeline-item flex flex-col md:flex-row">

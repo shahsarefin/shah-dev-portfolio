@@ -24,7 +24,7 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noopener noreferrer" className="text-2xl">
               <FontAwesomeIcon icon={faLinkedin} className="text-teal-400 hover:text-teal-600" />
             </a>
-            <a href="mailto:shahsarefin@gmail.com" target="_blank" rel="noopener noreferrer" className="text-2xl">
+            <a href="mailto:shah.arefin.dev@gmail.com" target="_blank" rel="noopener noreferrer" className="text-2xl">
               <FontAwesomeIcon icon={faEnvelope} className="text-teal-400 hover:text-teal-600" />
             </a>
             <a href="https://twitter.com/shahsarefin" target="_blank" rel="noopener noreferrer" className="text-2xl">
@@ -41,7 +41,7 @@ const Hero = () => {
             <a href="https://drive.google.com/your_drive_link_here" target="_blank" rel="noopener noreferrer" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               See Resume
             </a>
-            <a href="mailto:shahsarefin@gmail.com" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
+            <a href="mailto:shah.arefin.dev@gmail.com" className="inline-block py-1 px-2 md:px-3 bg-teal-400 text-gray-800 font-semibold rounded-lg hover:bg-teal-600 text-sm md:text-base">
               Contact Me
             </a>
           </div>

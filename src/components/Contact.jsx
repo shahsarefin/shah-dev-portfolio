@@ -12,10 +12,10 @@ const Contact = () => {
           <a href="https://github.com/shahsarefin" target="_blank" rel="noopener noreferrer" className="m-2">
             <FontAwesomeIcon icon={faGithub} className="text-teal-400 hover:text-teal-600" />
           </a>
-          <a href="https://www.linkedin.com/in/shahsarefin/" target="_blank" rel="noopener noreferrer" className="m-2">
+          <a href="https://www.linkedin.com/in/shaharefin/" target="_blank" rel="noopener noreferrer" className="m-2">
             <FontAwesomeIcon icon={faLinkedin} className="text-teal-400 hover:text-teal-600" />
           </a>
-          <a href="mailto:shahsarefin@gmail.com" target="_blank" rel="noopener noreferrer" className="m-2">
+          <a href="mailto:shah.arefin.dev@gmail.com" target="_blank" rel="noopener noreferrer" className="m-2">
             <FontAwesomeIcon icon={faEnvelope} className="text-teal-400 hover:text-teal-600" />
           </a>
           <a href="https://twitter.com/shahsarefin" target="_blank" rel="noopener noreferrer" className="m-2">

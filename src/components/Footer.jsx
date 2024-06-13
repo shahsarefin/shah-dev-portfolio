@@ -13,7 +13,7 @@ const Footer = () => {
           "If at first you don't succeed; call it version 1.0." - Anonymous
         </blockquote>
         <p className="text-lg mb-2">
-          Built with <FontAwesomeIcon icon={faHeart} className="text-white" /> by Tanweer | <FontAwesomeIcon icon={faCalendarAlt} className="text-white" /> {currentYear}
+          Built with <FontAwesomeIcon icon={faHeart} className="text-white" /> by Tanweer | {currentYear}
         </p>
       </div>
     </footer>
